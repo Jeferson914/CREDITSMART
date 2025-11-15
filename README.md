@@ -1,3 +1,6 @@
+NOMBRE: Jeferson Sánchez Vásquez
+
+
 # CreditSmar 💳  
 Aplicación web moderna para simulación y visualización de productos crediticios.  
 Desarrollada con **React + Vite + TailwindCSS + React Router**, usando componentes reutilizables y animaciones suaves.
@@ -31,4 +34,18 @@ Desarrollada con **React + Vite + TailwindCSS + React Router**, usando component
 ---
 
 ## 📂 Estructura del proyecto
+
+src/
+├── components/
+│ ├── Header.jsx
+│ ├── Footer.jsx
+│ ├── Hero.jsx
+│ └── ProductCard.jsx
+├── pages/
+│ ├── Home.jsx
+│ ├── Simulador.jsx
+│ └── Solicitud.jsx
+├── data/
+│ └── Products.js
+├── App.jsx
 
