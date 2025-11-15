@@ -49,3 +49,22 @@ src/
 │ └── Products.js
 ├── App.jsx
 
+🖼️ Vista previa del proyecto
+🏠 Home con hero animado
+💳 Tarjetas de productos responsivas
+🔢 Simulador de crédito
+📝 Formulario de solicitud
+
+Navbar y hero
+<img width="1908" height="841" alt="image" src="https://github.com/user-attachments/assets/1b50ce08-1ebc-46ec-966c-4e0d7daa85fd" />
+
+Cards
+<img width="1892" height="916" alt="image" src="https://github.com/user-attachments/assets/3b8f7e85-a432-4449-b353-38d0e84b56fe" />
+
+Simulador
+<img width="1905" height="851" alt="image" src="https://github.com/user-attachments/assets/e1f17e93-0d10-4932-902e-365307c57d88" />
+
+Slicitar credito
+<img width="1919" height="933" alt="image" src="https://github.com/user-attachments/assets/d7edd59e-34a0-469f-b9c6-87dcaa7e5d15" />
+
+
